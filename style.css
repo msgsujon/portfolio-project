@@ -6,3 +6,29 @@ body{
 h1{
     font-size: 50px;
 }
+.green{
+    color: green;
+}
+section{
+    display: flex;
+
+}
+.half{
+    width: 50%;
+    padding: 5%;
+}
+.half img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: aliceblue;
+
+}
+.link-button:hover{
+    color: brown;
+}
