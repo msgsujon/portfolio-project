@@ -10,7 +10,7 @@ h1{
 .green{
     color: green;
 }
-section{
+.flex-tips{
     display: flex;
 
 }
@@ -42,4 +42,27 @@ section{
     background-image: url(aa.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.third-sect{
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+.orange{
+    color: orange;
+}
+.ex-item{
+    width: 40%;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding: 10px;
+    box-shadow: 10px 10px 40px gray;
+    border-left: 5px solid red;
+    
+}
+
+footer p{
+    text-align: center;
+    padding-top: 25px;
 }
